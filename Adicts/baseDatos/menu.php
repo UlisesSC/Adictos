@@ -1,0 +1,1 @@
+<a href="./index.php">Productos</a>&nbsp;<a href="./usuario.php">Usuarios</a>&nbsp<a href="./salir.php">Salir</a>
